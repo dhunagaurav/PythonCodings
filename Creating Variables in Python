@@ -1,0 +1,6 @@
+character_name="Raju"
+character_age="30"
+
+print("That boy name is " + character_name +".")
+print("Raju age is " + character_age + ".")
+
