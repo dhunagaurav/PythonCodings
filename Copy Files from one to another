@@ -1,0 +1,6 @@
+friend=["Marry","John","Johnathan","Queency"]
+friends2=friend.copy()
+print(friends2)
+
+#output
+#['Marry', 'John', 'Johnathan', 'Queency']
