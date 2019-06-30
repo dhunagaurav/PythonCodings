@@ -1,0 +1,5 @@
+friends= ["John","Marry","Johnathan","Queency"]
+print(friends.index("Marry"))
+
+#Output 
+#1
