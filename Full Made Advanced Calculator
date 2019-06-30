@@ -1,0 +1,19 @@
+num1=float(input("Plesae enter the first no: "))
+op=input("Plesae enter the operator: ")
+num2=float(input("Please enter your second no: "))
+
+if op=="+":
+    print(num1+num2)
+
+elif op=="-":
+    print(num1-num2)
+
+elif op=="*":
+    print(num1*num2)
+
+elif op=="/":
+    print(num1/num2)
+
+else:
+    print("You have entered a wrong operator")
+
