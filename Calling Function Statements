@@ -1,0 +1,16 @@
+#About Functions
+
+def function1(x):
+    return 2*x
+def function2(y):
+    return 4*y
+
+a=function1(3)
+print(a)
+
+b=function2(4)
+print(b)
+
+#Output
+#6
+#16
