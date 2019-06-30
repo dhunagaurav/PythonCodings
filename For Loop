@@ -1,0 +1,18 @@
+for gaurav in "I have college":
+    print(gaurav)
+    
+#Output
+#I
+#
+#h
+#a
+#v
+#e
+#
+#c
+#o
+#l
+#l
+#e
+#g
+#e
