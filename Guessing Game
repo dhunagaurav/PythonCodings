@@ -1,0 +1,13 @@
+a = "gaurav"
+guess = ""
+guess_limit=5
+guess_count=0
+while guess!= a:
+
+    if guess_count<=guess_limit:
+        guess=input("Enter your guesses: ")
+        guess_count+=1
+    else:
+        print("You finish your guesses")
+
+print("You got that right")
