@@ -1,0 +1,11 @@
+friends = ["Jim", "Kevin", "Anthony"]
+
+for friend in friends:
+    print(friend)
+    
+    
+#Output
+#Jim
+#Kevin
+#Anthony
+#In this we are calling one variable witht he help of another
