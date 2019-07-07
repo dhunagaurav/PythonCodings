@@ -1,0 +1,8 @@
+def gaurav(num):
+    return num*num
+    
+result=gaurav(4)
+print(result)
+
+
+#---> 16
